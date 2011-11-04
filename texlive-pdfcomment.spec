@@ -1,3 +1,9 @@
+# revision 22604
+# category Package
+# catalog-ctan /macros/latex/contrib/pdfcomment
+# catalog-date 2011-05-24 10:48:56 +0200
+# catalog-license lppl1.3
+# catalog-version v2.2
 Name:		texlive-pdfcomment
 Version:	v2.2
 Release:	1
@@ -66,6 +72,7 @@ Reader.
 %doc %{_texmfdistdir}/doc/latex/pdfcomment/pdfcomment.tex
 %doc %{_texmfdistdir}/doc/latex/pdfcomment/pdfcomment_de.pdf
 %doc %{_texmfdistdir}/doc/latex/pdfcomment/pdfcomment_de.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -76,3 +83,5 @@ Reader.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
