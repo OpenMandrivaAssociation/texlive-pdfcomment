@@ -1,12 +1,12 @@
-# revision 22604
+# revision 25206
 # category Package
 # catalog-ctan /macros/latex/contrib/pdfcomment
-# catalog-date 2011-05-24 10:48:56 +0200
+# catalog-date 2012-01-26 17:11:01 +0100
 # catalog-license lppl1.3
-# catalog-version v2.2
+# catalog-version v2.2a
 Name:		texlive-pdfcomment
-Version:	v2.2
-Release:	2
+Version:	v2.2a
+Release:	1
 Summary:	A user-friendly interface to pdf annotations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfcomment
