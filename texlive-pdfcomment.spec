@@ -6,7 +6,7 @@
 # catalog-version v2.3a
 Name:		texlive-pdfcomment
 Version:	v2.3a
-Release:	3
+Release:	4
 Summary:	A user-friendly interface to pdf annotations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfcomment
