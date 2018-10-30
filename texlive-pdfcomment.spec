@@ -1,6 +1,6 @@
 Name:		texlive-pdfcomment
 Version:	2.4
-Release:	1
+Release:	2
 Summary:	A user-friendly interface to pdf annotations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfcomment
