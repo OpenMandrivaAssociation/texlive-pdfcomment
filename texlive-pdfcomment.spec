@@ -3,7 +3,7 @@ Version:	49047
 Release:	2
 Summary:	A user-friendly interface to pdf annotations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfcomment
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdfcomment
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfcomment.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfcomment.doc.r%{version}.tar.xz
